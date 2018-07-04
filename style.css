@@ -1,3 +1,5 @@
+@import url(//fonts.googleapis.com/css?family=Montserrat:400,700%7CPT+Serif:400,700);
+
 html
 {
     overflow: hidden;
@@ -371,7 +373,7 @@ body.blog .more-posts
 {
     width: 970px;
     float: right;
-    font-size: 24px;
+    font-size: 22px;
     line-height: 40px;
 }
 
@@ -420,7 +422,7 @@ body.blog .more-posts
 .blog-item-holder .entry-title
 {
     padding: 0 100px;
-    font-size: 24px;
+    font-size: 22px;
     line-height: 30px;
     font-weight: 400;
 }
@@ -749,7 +751,7 @@ body.blog .more-posts
 .single-post-shortcode .post-text
 {
     padding: 0 100px;
-    font-size: 24px;
+    font-size: 22px;
     line-height: 30px;
     color: #FAF8F3;
     font-weight: 400;
@@ -757,7 +759,7 @@ body.blog .more-posts
 
 .single-post-shortcode .post-text a
 {
-    font-size: 24px;
+    font-size: 22px;
     line-height: 30px;
     color: #FAF8F3;
     font-weight: 400;
